@@ -17,19 +17,19 @@ This repository is meant to reorganize six projects that I built from 2016 to 20
 
 <div align=center><img width="65%" height="65%" src="figure/2.png"/></div>
 
-- [Neural Collaborative Autoencoder](https://arxiv.org/abs/1712.09043). Qibing Li, Xiaolin Zheng, Xinyue Wu. IEEE Transactions on Knowledge and Data Engineering (TKDE 2019), under review. [code](https://arxiv.org/abs/1712.09043)
+- [Neural Collaborative Autoencoder](https://arxiv.org/abs/1712.09043). Qibing Li, Xiaolin Zheng, Xinyue Wu. IEEE Transactions on Knowledge and Data Engineering (TKDE 2019), under review. [code](https://github.com/QibingLee/NCAE)
 
    Keywords: recommender system, collaborative filtering, neural network, deep learning
 
 <div align=center><img width="85%" height="85%" src="figure/3.png"/></div>
 
-- [FNText: A Fast Neural Model for Efﬁcient Text Classiﬁcation](https://github.com/QibingLee/AI-research/paper). Anonymous authors. Waiting for ACL 2019. [code](https://github.com/QibingLee/FNText-classification)
+- [FNText: A Fast Neural Model for Efﬁcient Text Classiﬁcation](https://github.com/QibingLee/AI-research/tree/feature/paper). Anonymous authors. Waiting for ACL 2019. [code](https://github.com/QibingLee/FNText-classification)
 
    Keywords: neural network, text classiﬁcation, bi-gram
 
 <div align=center><img width="48%" height="48%" src="figure/4.png"/></div>
 
-- [Stage-LSTM: Modeling Long Time Series with Arbitrary Sampling Rates and an Application on Crowdfunding](https://github.com/QibingLee/AI-research/paper). Anonymous authors. WWW 2019, under review.
+- [Stage-LSTM: Modeling Long Time Series with Arbitrary Sampling Rates and an Application on Crowdfunding](https://github.com/QibingLee/AI-research/tree/feature/paper). Anonymous authors. WWW 2019, under review.
 
    Keywords: recurrent neural network, time series forecasting, time utility, profit and risk
 
