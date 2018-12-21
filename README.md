@@ -7,10 +7,7 @@ This repository is meant to reorganize six projects that I built from 2016 to 20
 
 - [Semi-supervised Learning Meets Factorization: Learning to Recommend with Chain Graph Model](https://dl.acm.org/citation.cfm?id=3264745). Chaochao Chen, Kevin Chen-Chuan Chang, Qibing Li, and Xiaolin Zheng. ACM Transactions on Knowledge Discovery from Data (TKDD), 2018.
 
-  <font size=100>Keywords</font>
-  <font color=gray size=100>color=gray</font>
-
-  Keywords: Semi-supervised Learning, Latent Factor Model, Chain Graph Model, Data Sparsity
+  <small>Keywords: Semi-supervised Learning, Latent Factor Model, Chain Graph Model, Data Sparsity</small>
 
 <div align=center><img width="80%" height="80%" src="figure/11.png"/></div>
 
