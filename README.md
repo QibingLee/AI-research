@@ -1,4 +1,4 @@
-# AI Research papers
+# AI Research Papers
 
 
 This repository is meant to reorganize six projects that I built from 2016 to 2018, including: 1) a generic data mining visualization tool; 2) a Weibo social network mining system; 3) a video effect rendering engine; 4) a user-generated video sharing platform; 5) a 3D-roaming maze for graphic lighting. All of them are now open-sourced. The technical implementations and design philosophies can be found in each sub-repository. Disclaimer: these projects are built several years ago, and therefore some functions may be deprecated.
@@ -17,13 +17,13 @@ This repository is meant to reorganize six projects that I built from 2016 to 20
 
 <div align=center><img width="65%" height="65%" src="figure/2.png"/></div>
 
-- [Neural Collaborative Autoencoder](https://arxiv.org/abs/1712.09043). Qibing Li, Xiaolin Zheng, Xinyue Wu. IEEE Transactions on Knowledge and Data Engineering (TKDE 2019), under review. [code](https://github.com/QibingLee/NCAE)
+- [Neural Collaborative Autoencoder](https://arxiv.org/abs/1712.09043). Qibing Li, Xiaolin Zheng, Xinyue Wu. IEEE Transactions on Knowledge and Data Engineering (TKDE 2019), under review. [[code](https://github.com/QibingLee/NCAE)]
 
    Keywords: recommender system, collaborative filtering, neural network, deep learning
 
 <div align=center><img width="85%" height="85%" src="figure/3.png"/></div>
 
-- [FNText: A Fast Neural Model for Efﬁcient Text Classiﬁcation](https://github.com/QibingLee/AI-research/tree/feature/paper). Anonymous authors. Waiting for ACL 2019. [code](https://github.com/QibingLee/FNText-classification)
+- [FNText: A Fast Neural Model for Efﬁcient Text Classiﬁcation](https://github.com/QibingLee/AI-research/tree/feature/paper). Anonymous authors. Waiting for ACL 2019. [[code](https://github.com/QibingLee/FNText-classification)]
 
    Keywords: neural network, text classiﬁcation, bi-gram
 
@@ -37,7 +37,7 @@ This repository is meant to reorganize six projects that I built from 2016 to 20
 
 - [Purchase As Reward: Session-based Recommendation by Imagination Reconstruction](https://openreview.net/forum?id=SkfTIj0cKX&noteId=SyenKQGCA7). Qibing Li and Xiaolin Zheng. ICLR 2019, under review.
 
-   Keywords: prediction error minimization, predictive learning, self-supervised RL, model-based planning
+   Keywords: prediction error minimization, predictive learning, self-supervised RL, model-based exploration
 
 <div align=center><img width="80%" height="80%" src="figure/6.png"/></div>
 
