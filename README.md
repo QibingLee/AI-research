@@ -2,7 +2,7 @@
 
 This repository is meant to reorganize several papers related to AI. My research interest focuses on reinforcement learning, neuroscience-inspired AI (e.g., predictive coding) and decentralized ML (or privacy-preserving ML). Currently, I mainly work on collaborative filtering, deep learning, predictive learning and their applications in recommender systems, text mining and time series prediction. 
 
-I also serve as the leader for Bithack technology community, which aims to learn and build decentralized systems, including blockchain, the decentralized web and storage, and even the decentralized network of AIs. Recently, I have created a github organization [BithackTech](https://github.com/BithackTech), sharing our <a href="#head">research materials</a>.
+I also serve as the leader for Bithack technology community, which aims to learn and build decentralized systems, including blockchain, the decentralized web and storage, and even the decentralized network of AIs. Recently, I have created a github organization [BithackTech](https://github.com/BithackTech), sharing our <a href="#head">research materials</a>. I realize that decentralized learning and multi-agent systems will play a significant role in the upcoming decentralized infrastructure (e.g., Solid), where user data is decoupled from the application and kept on one's own hand (e.g., cell phone or decentralized storage) for privacy.
 
 # Contents
 
