@@ -1,13 +1,12 @@
 # AI Research Papers
 
-
-This repository is meant to reorganize six projects that I built from 2016 to 2018, including: 1) a generic data mining visualization tool; 2) a Weibo social network mining system; 3) a video effect rendering engine; 4) a user-generated video sharing platform; 5) a 3D-roaming maze for graphic lighting. All of them are now open-sourced. The technical implementations and design philosophies can be found in each sub-repository. Disclaimer: these projects are built several years ago, and therefore some functions may be deprecated.
+This repository is meant to reorganize several papers related to AI. My research interest focuses on reinforcement learning, neuroscience-inspired AI (e.g., predictive coding) and decentralized ML (or privacy-preserving ML). Currently, I mainly work on collaborative filtering, deep learning, predictive learning and their applications in recommender systems, text mining and time series prediction. 
 
 # Contents
 
 - [Semi-supervised Learning Meets Factorization: Learning to Recommend with Chain Graph Model](https://dl.acm.org/citation.cfm?id=3264745). Chaochao Chen, Kevin Chen-Chuan Chang, Qibing Li, and Xiaolin Zheng. ACM Transactions on Knowledge Discovery from Data (TKDD), 2018.
 
-   Keywords: semi-supervised learning, latent factor model, chain graph model, data sparsity
+   Keywords: semi-supervised learning, probabilistic graphical model, latent factor model, data sparsity
 
 <div align=center><img width="80%" height="80%" src="figure/11.png"/></div>
 
@@ -37,14 +36,19 @@ This repository is meant to reorganize six projects that I built from 2016 to 20
 
 - [Purchase As Reward: Session-based Recommendation by Imagination Reconstruction](https://openreview.net/forum?id=SkfTIj0cKX&noteId=SyenKQGCA7). Qibing Li and Xiaolin Zheng. ICLR 2019, under review.
 
-   Keywords: prediction error minimization, predictive learning, self-supervised RL, model-based exploration
+   Keywords: self-supervised RL, prediction error minimization, predictive learning, model-based exploration
 
 <div align=center><img width="80%" height="80%" src="figure/6.png"/></div>
 
 
 # Related
+
+I also serve as in the bithack community. 
+
 [Project](https://github.com/QibingLee/Project)
 
 [Bithack-seminar](https://github.com/BithackTech/seminar)
 
 [Bithack-research](https://github.com/BithackTech/research)
+
+[Bithack-hackathon](https://github.com/BithackTech/hackathon-bitrun)
