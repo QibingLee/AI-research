@@ -1,6 +1,9 @@
 # AI Research Papers
+<a id="head"/>
 
 This repository is meant to reorganize several papers related to AI. My research interest focuses on reinforcement learning, neuroscience-inspired AI (e.g., predictive coding) and decentralized ML (or privacy-preserving ML). Currently, I mainly work on collaborative filtering, deep learning, predictive learning and their applications in recommender systems, text mining and time series prediction. 
+
+I also serve as the leader for Bithack technology community, which aims to learn and build decentralized systems, including blockchain, the decentralized web and storage, and even the decentralized network of AIs. Recently, I have created a github organization, [BithackTech](https://github.com/BithackTech), sharing our [research materials]().
 
 # Contents
 
@@ -41,11 +44,10 @@ This repository is meant to reorganize several papers related to AI. My research
 <div align=center><img width="80%" height="80%" src="figure/6.png"/></div>
 
 
-# Related
 
-I also serve as in the bithack community. 
+<a href="#head">`点这里从头再读一遍`</a>
 
-[Project](https://github.com/QibingLee/Project)
+# Bithack Technologies
 
 [Bithack-seminar](https://github.com/BithackTech/seminar)
 
