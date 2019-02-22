@@ -30,7 +30,7 @@ I also serve as the leader for Bithack technology community, which aims to learn
 
 <div align=center><img width="48%" height="48%" src="figure/4.png"/></div>
 
-- [Stage-LSTM: Modeling Long Time Series with Arbitrary Sampling Rates and an Application on Crowdfunding](https://github.com/QibingLee/AI-research/paper). Anonymous authors. WWW 2019, under review.
+- Stage-LSTM: Modeling Long Time Series with Arbitrary Sampling Rates and an Application on Crowdfunding. Anonymous authors. WWW 2019, under review.
 
    Keywords: recurrent neural network, time series forecasting, time utility, profit and risk
 
